@@ -1,0 +1,25 @@
+.Monday{
+  background-color: skyblue;
+}
+.Tuesday{
+  background-color: lightgrey;
+}
+.Wednesday{
+  background-color: lightgreen;
+}
+.Thursday{
+  background-color: violet;
+}
+.Friday{
+  background-color: pink;
+}
+.Saturday{
+  background-color: lightyellow;
+}
+.Sunday{
+  background-color: cyan;
+}
+.Weekday{
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}

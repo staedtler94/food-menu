@@ -23,3 +23,9 @@
   padding-top: 3vh;
   padding-bottom: 3vh;
 }
+.input-class{
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-right: 1vw;
+  padding-left: 1vw;
+}
